@@ -1,0 +1,9 @@
+D:\workspace_unity\TumblrPicGet\TumblrPicWin\obj\Debug\TumblrPicWin.csprojResolveAssemblyReference.cache
+D:\workspace_unity\TumblrPicGet\TumblrPicWin\obj\Debug\TumblrPicGet.Properties.Resources.resources
+D:\workspace_unity\TumblrPicGet\TumblrPicWin\obj\Debug\TumblrPicWin.csproj.GenerateResource.Cache
+D:\workspace_unity\TumblrPicGet\TumblrPicWin\obj\Debug\Form1.resources
+D:\workspace_unity\TumblrPicGet\TumblrPicWin\bin\Debug\TumblrPicWin.exe.config
+D:\workspace_unity\TumblrPicGet\TumblrPicWin\bin\Debug\TumblrPicWin.exe
+D:\workspace_unity\TumblrPicGet\TumblrPicWin\bin\Debug\TumblrPicWin.pdb
+D:\workspace_unity\TumblrPicGet\TumblrPicWin\obj\Debug\TumblrPicWin.exe
+D:\workspace_unity\TumblrPicGet\TumblrPicWin\obj\Debug\TumblrPicWin.pdb
